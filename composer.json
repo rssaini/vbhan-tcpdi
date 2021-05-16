@@ -1,0 +1,16 @@
+{
+    "name": "vbhan/tcpdi",
+    "type": "library",
+    "description": "TCPDI implementation in php 7+",
+    "keywords": ["vbhan","tcpdi","tcpdf"],
+    "homepage": "https://virtuelogics.com",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Rahul Saini",
+            "email": "rahul.virtuelogics@gmail.com",
+            "homepage": "https://www.google.com",
+            "role": "Developer"
+        }
+    ],
+}
