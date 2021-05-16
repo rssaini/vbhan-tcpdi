@@ -1,5 +1,6 @@
 {
     "name": "vbhan/tcpdi",
+    "version": "1.0",
     "type": "library",
     "description": "TCPDI implementation in php 7+",
     "keywords": ["vbhan","tcpdi","tcpdf"],
@@ -12,5 +13,8 @@
             "homepage": "https://www.google.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    }
 }
