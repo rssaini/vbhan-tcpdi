@@ -1,6 +1,6 @@
 {
     "name": "vbhan/tcpdi",
-    "version": "1.0",
+    "version": "1.0.5",
     "type": "library",
     "description": "TCPDI implementation in php 7+",
     "keywords": ["vbhan","tcpdi","tcpdf"],
@@ -16,5 +16,11 @@
     ],
     "require": {
         "php": ">=7.1.0"
+    },
+    "autoload": {
+        "classmap": [
+            "TCPDF/tcpdf.php",
+            "TCPDF/tcpdi.php"
+        ]
     }
 }
